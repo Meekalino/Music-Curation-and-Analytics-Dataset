@@ -1,0 +1,2 @@
+# Music-Curation-and-Analytics-Dataset
+A collection of music data over 11 weeks.
